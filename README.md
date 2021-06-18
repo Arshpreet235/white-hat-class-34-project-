@@ -1,1 +1,2 @@
-# white-hat-class-34-project-
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
